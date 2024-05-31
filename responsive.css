@@ -1,0 +1,116 @@
+@media only screen and (min-width:320px)and (max-width:768px){
+    .pt17
+    {
+        padding: 17px !important;
+    }
+    .example {background: pink;}
+    .pt1{
+        padding-top: 81px !important;
+        font-size: 30px!important;
+    }
+    .navbar-toggler-icon {
+        color: #ff0000 !important;
+    } 
+    .imagewidth{
+        padding-right:188px!important;
+       
+    }
+    .imagew{
+        width:50px!important;
+        height:50px!important;
+    }
+    .container2{
+       padding:0px
+        
+    }
+    .hide{
+        display:none!important;
+    }
+    .b1{
+        display: block!important;
+        text-align: center!important;
+    }
+    .width2{
+        margin: 14px!important;
+        border-radius: 17px!important;
+    }
+    .imgcenter{
+        display: block!important;
+        margin-left: auto!important;
+        margin-right: auto!important;
+        
+    }
+    .mail{
+        font-size: 13px!important;
+    }
+.fa-lg{
+    font-size: 0.6em!important;
+  line-height: 0.75em!important;
+  vertical-align: -0.067em!important;
+}
+.pt2{
+    padding: 5px !important;
+}
+.carousal-item{
+    width:100% !important;
+    padding-top: 0px!important;
+}
+.ptb{
+    padding-bottom: 25px!important;
+}
+.w100{
+    width: 100% !important;
+}
+}
+
+
+
+
+  
+  @media only screen and (min-width: 768px)and (max-width: 992px) {
+    .example {background: blue;}
+    .imgcenter1{
+        display: block!important;
+        margin-left: auto!important;
+        margin-right: auto!important;
+       
+        
+        
+    }
+    .w1001{
+        width: 100% !important;
+    }
+    .hide{
+        display:none!important;
+    }
+    .b1{
+        display: block!important;
+        text-align: center!important;
+    }
+  } 
+  
+  
+  @media only screen and (min-width: 992px)and(max-width: 1800px) {
+    .example {background: orange;}
+    .hide{
+        display:none!important;
+    }
+    .b1{
+        display: block!important;
+        text-align: center!important;
+    }
+    .imgcenter1{
+        display: block!important;
+        margin-left: auto!important;
+        margin-right: auto!important;
+        width: 600px !important;
+        
+    }
+    .w1001{
+        width: 100% !important;
+    }
+
+  } 
+  
+  
+  

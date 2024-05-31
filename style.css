@@ -1,0 +1,70 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pt50{
+    padding: 50px;
+}
+
+
+.container1{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 10px 10px;
+}
+.food{
+  font-size: 50px;
+  line-height: 54px;
+  color: black;
+  padding-top: 40px;
+}
+.food1{
+    font-size: 25px;
+    line-height: 29px;
+    color: black;
+    font-style: italic;
+    text-align: center;
+}
+
+.para1{
+    font-size:18px;
+    line-height:22px;
+    color:#000000;
+    text-align:center;
+    padding-top:20px;
+    }
+
+    .para2{
+        font-size:18px;
+        line-height:22px;
+        color:black;
+        text-align:left;
+        padding-top:20px;
+        }
+    
+
+.fullwidth2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.menu{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width:90%;
+}
+
+
+  
+  .pt1{
+    padding-top: 90px !important;
+}
+
+
+
+
